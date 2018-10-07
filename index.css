@@ -68,12 +68,12 @@ body {
 }
 @keyframes shadow {
     0% {
-	transform: translate(-50%, 250px) scale(1);
+	transform: translate(-50%, 250px) translateX(-300px) scale(1);
     }
     50% {
-	transform: translate(-50%, 250px) scale(0.5);
+	transform: translate(-50%, 250px) translateX(0px) scale(0.5);
     }
     100% {
-	transform: translate(-50%, 250px) scale(1);
+	transform: translate(-50%, 250px) translateX(300px) scale(1);
     }
 }
