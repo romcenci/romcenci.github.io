@@ -11,8 +11,8 @@ body {
 }
 .ball {
     position: absolute;
-    width: 150px;
-    height: 150px;
+    width: 50px;
+    height: 50px;
     background: #c9f364;
     border-radius: 50%;
     transform: translate(-50%, -50%);
@@ -45,19 +45,19 @@ body {
 }
 @keyframes ball {
     0% {
-	transform: translate(-50%, -50%) translateX(-300px) translateY(-300px);
+	transform: translate(-50%, -50%) translateX(-300px) translateY(-200px);
     }
     50% {
 	transform: translate(-50%, -50%) translateX(0px) translateY(200px);
     }
     100% {
-	transform: translate(-50%, -50%) translateX(300px) translateY(-300px);
+	transform: translate(-50%, -50%) translateX(300px) translateY(-200px);
     }
 }
 .shadow {
     position: absolute;
-    width: 150px;
-    height: 50px;
+    width: 50px;
+    height: 15px;
     background: rgba(0,0,0,0.2);
     border-radius: 50%;
     transform: translate(-50%, 100%);
@@ -75,5 +75,30 @@ body {
     }
     100% {
 	transform: translate(-50%, 250px) translateX(300px) scale(1);
+    }
+}
+
+#braco {
+    opacity: 1;
+    fill: #0000ff;
+    transform-origin: 95px 95px;
+    animation: animateDescartes 2.5s linear infinite
+}
+
+@keyframes animateDescartes {
+    0% {
+	transform: translateX(0px) rotateZ(0deg);
+    }
+    20% {
+	transform: translateX(0px) rotateZ(85deg);
+    }
+    50% {
+	transform: translateX(0px) rotateZ(85deg);
+    }
+    75% {
+	transform: translateX(0px) rotateZ(85deg);
+    }
+    100% {
+	transform: translateX(0px) rotateZ(85deg);
     }
 }
