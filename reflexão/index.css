@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: #262626;
+    background: #404040;
 }
 .container {
     position: absolute;
@@ -68,13 +68,13 @@ body {
 }
 @keyframes shadow {
     0% {
-	transform: translate(-50%, 250px) translateX(-300px) scale(1);
+	transform: translate(-50%, 220px) translateX(-300px) scale(1);
     }
     50% {
-	transform: translate(-50%, 250px) translateX(0px) scale(0.5);
+	transform: translate(-50%, 220px) translateX(0px) scale(0.5);
     }
     100% {
-	transform: translate(-50%, 250px) translateX(300px) scale(1);
+	transform: translate(-50%, 220px) translateX(300px) scale(1);
     }
 }
 
