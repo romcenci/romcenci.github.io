@@ -3,6 +3,7 @@ table{
     border-spacing: 0px;
 }
 
+
 table, th, td{
     padding: 5px;
     border: 1px solid black;
@@ -12,5 +13,5 @@ body {
     color: #FFFFFF;
     background: #262626;
     font-family: monospace;
-    font-size: 200%;
+    font-size: 150%;
 }
