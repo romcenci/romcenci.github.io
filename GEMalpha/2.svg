@@ -1,0 +1,566 @@
+<?xml-stylesheet type="text/css" href="1.css" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <clipPath id="svgPath">
+      <rect x="80" y="80" width="640" height="640" style="fill:rgba(0,0,0,0);stroke-width:2;stroke:#ffffff"/>
+    </clipPath>
+  </defs>
+  <g style="clip-path: url(#svgPath);">
+    <circle class="circlest" cx="289.194240" cy="39.091840" fill="#EE442F" r="20"/>
+    <text class="text" x="289.194240" y="39.091840" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="289.194240" cy="679.091840" fill="#EE442F" r="20"/>
+    <text class="text" x="289.194240" y="679.091840" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="59.486720" cy="556.576000" fill="#63ACBE" r="20"/>
+    <text class="text" x="59.486720" y="556.576000" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="699.486720" cy="556.576000" fill="#63ACBE" r="20"/>
+    <text class="text" x="699.486720" y="556.576000" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="609.118720" cy="606.511360" fill="#EE442F" r="20"/>
+    <text class="text" x="609.118720" y="606.511360" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="361.099520" cy="126.256640" fill="#EE442F" r="20"/>
+    <text class="text" x="361.099520" y="126.256640" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="361.099520" cy="766.256640" fill="#EE442F" r="20"/>
+    <text class="text" x="361.099520" y="766.256640" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="556.034560" cy="264.048640" fill="#EE442F" r="20"/>
+    <text class="text" x="556.034560" y="264.048640" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="99.310720" cy="636.666880" fill="#EE442F" r="20"/>
+    <text class="text" x="99.310720" y="636.666880" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="739.310720" cy="636.666880" fill="#EE442F" r="20"/>
+    <text class="text" x="739.310720" y="636.666880" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="193.248640" cy="375.809920" fill="#EE442F" r="20"/>
+    <text class="text" x="193.248640" y="375.809920" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="149.646720" cy="343.679360" fill="#EE442F" r="20"/>
+    <text class="text" x="149.646720" y="343.679360" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="789.646720" cy="343.679360" fill="#EE442F" r="20"/>
+    <text class="text" x="789.646720" y="343.679360" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="285.409280" cy="425.964160" fill="#EE442F" r="20"/>
+    <text class="text" x="285.409280" y="425.964160" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="316.734080" cy="109.404160" fill="#63ACBE" r="20"/>
+    <text class="text" x="316.734080" y="109.404160" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="316.734080" cy="749.404160" fill="#63ACBE" r="20"/>
+    <text class="text" x="316.734080" y="749.404160" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="613.372160" cy="502.248320" fill="#EE442F" r="20"/>
+    <text class="text" x="613.372160" y="502.248320" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="236.323840" cy="558.639360" fill="#EE442F" r="20"/>
+    <text class="text" x="236.323840" y="558.639360" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="230.976640" cy="210.478080" fill="#EE442F" r="20"/>
+    <text class="text" x="230.976640" y="210.478080" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="518.940160" cy="548.931200" fill="#EE442F" r="20"/>
+    <text class="text" x="518.940160" y="548.931200" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="565.009280" cy="632.050560" fill="#EE442F" r="20"/>
+    <text class="text" x="565.009280" y="632.050560" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="53.976320" cy="237.845120" fill="#EE442F" r="20"/>
+    <text class="text" x="53.976320" y="237.845120" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="693.976320" cy="237.845120" fill="#EE442F" r="20"/>
+    <text class="text" x="693.976320" y="237.845120" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="517.701760" cy="17.183360" fill="#EE442F" r="20"/>
+    <text class="text" x="517.701760" y="17.183360" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="517.701760" cy="657.183360" fill="#EE442F" r="20"/>
+    <text class="text" x="517.701760" y="657.183360" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="282.667520" cy="531.860480" fill="#EE442F" r="20"/>
+    <text class="text" x="282.667520" y="531.860480" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="471.682560" cy="474.020480" fill="#EE442F" r="20"/>
+    <text class="text" x="471.682560" y="474.020480" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="147.866880" cy="23.296640" fill="#EE442F" r="20"/>
+    <text class="text" x="147.866880" y="23.296640" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="147.866880" cy="663.296640" fill="#EE442F" r="20"/>
+    <text class="text" x="147.866880" y="663.296640" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="787.866880" cy="23.296640" fill="#EE442F" r="20"/>
+    <text class="text" x="787.866880" y="23.296640" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="787.866880" cy="663.296640" fill="#EE442F" r="20"/>
+    <text class="text" x="787.866880" y="663.296640" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="60.477440" cy="504.696960" fill="#EE442F" r="20"/>
+    <text class="text" x="60.477440" y="504.696960" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="700.477440" cy="504.696960" fill="#EE442F" r="20"/>
+    <text class="text" x="700.477440" y="504.696960" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="564.723200" cy="472.604160" fill="#EE442F" r="20"/>
+    <text class="text" x="564.723200" y="472.604160" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="381.532160" cy="626.961280" fill="#EE442F" r="20"/>
+    <text class="text" x="381.532160" y="626.961280" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="17.456000" cy="527.196160" fill="#EE442F" r="20"/>
+    <text class="text" x="17.456000" y="527.196160" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="657.456000" cy="527.196160" fill="#EE442F" r="20"/>
+    <text class="text" x="657.456000" y="527.196160" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="512.594560" cy="294.097280" fill="#EE442F" r="20"/>
+    <text class="text" x="512.594560" y="294.097280" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="566.385280" cy="101.072000" fill="#EE442F" r="20"/>
+    <text class="text" x="566.385280" y="101.072000" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="566.385280" cy="741.072000" fill="#EE442F" r="20"/>
+    <text class="text" x="566.385280" y="741.072000" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="142.145280" cy="242.124160" fill="#63ACBE" r="20"/>
+    <text class="text" x="142.145280" y="242.124160" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="782.145280" cy="242.124160" fill="#63ACBE" r="20"/>
+    <text class="text" x="782.145280" y="242.124160" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="147.420800" cy="507.466240" fill="#EE442F" r="20"/>
+    <text class="text" x="147.420800" y="507.466240" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="787.420800" cy="507.466240" fill="#EE442F" r="20"/>
+    <text class="text" x="787.420800" y="507.466240" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="144.950400" cy="78.805760" fill="#EE442F" r="20"/>
+    <text class="text" x="144.950400" y="78.805760" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="144.950400" cy="718.805760" fill="#EE442F" r="20"/>
+    <text class="text" x="144.950400" y="718.805760" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="784.950400" cy="78.805760" fill="#EE442F" r="20"/>
+    <text class="text" x="784.950400" y="78.805760" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="784.950400" cy="718.805760" fill="#EE442F" r="20"/>
+    <text class="text" x="784.950400" y="718.805760" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="388.800640" cy="86.864000" fill="#EE442F" r="20"/>
+    <text class="text" x="388.800640" y="86.864000" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="388.800640" cy="726.864000" fill="#EE442F" r="20"/>
+    <text class="text" x="388.800640" y="726.864000" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="466.066560" cy="270.987520" fill="#EE442F" r="20"/>
+    <text class="text" x="466.066560" y="270.987520" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="101.611520" cy="370.380160" fill="#702A5A" r="20"/>
+    <text class="text" x="101.611520" y="370.380160" dominant-baseline="middle" text-anchor="middle" font-size="23">4</text>
+    <circle class="circlest" cx="741.611520" cy="370.380160" fill="#702A5A" r="20"/>
+    <text class="text" x="741.611520" y="370.380160" dominant-baseline="middle" text-anchor="middle" font-size="23">4</text>
+    <circle class="circlest" cx="610.000640" cy="450.640640" fill="#EE442F" r="20"/>
+    <text class="text" x="610.000640" y="450.640640" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="187.489280" cy="94.441600" fill="#63ACBE" r="20"/>
+    <text class="text" x="187.489280" y="94.441600" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="187.489280" cy="734.441600" fill="#63ACBE" r="20"/>
+    <text class="text" x="187.489280" y="734.441600" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="426.029440" cy="12.311040" fill="#EE442F" r="20"/>
+    <text class="text" x="426.029440" y="12.311040" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="426.029440" cy="652.311040" fill="#EE442F" r="20"/>
+    <text class="text" x="426.029440" y="652.311040" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="424.031360" cy="549.684480" fill="#63ACBE" r="20"/>
+    <text class="text" x="424.031360" y="549.684480" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="377.577600" cy="528.368640" fill="#EE442F" r="20"/>
+    <text class="text" x="377.577600" y="528.368640" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="563.462400" cy="422.369280" fill="#EE442F" r="20"/>
+    <text class="text" x="563.462400" y="422.369280" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="145.831680" cy="293.278080" fill="#63ACBE" r="20"/>
+    <text class="text" x="145.831680" y="293.278080" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="785.831680" cy="293.278080" fill="#63ACBE" r="20"/>
+    <text class="text" x="785.831680" y="293.278080" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="235.400320" cy="300.275200" fill="#EE442F" r="20"/>
+    <text class="text" x="235.400320" y="300.275200" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="103.027840" cy="427.105920" fill="#EE442F" r="20"/>
+    <text class="text" x="103.027840" y="427.105920" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="743.027840" cy="427.105920" fill="#EE442F" r="20"/>
+    <text class="text" x="743.027840" y="427.105920" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="603.170560" cy="185.184000" fill="#EE442F" r="20"/>
+    <text class="text" x="603.170560" y="185.184000" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="471.969920" cy="628.157440" fill="#EE442F" r="20"/>
+    <text class="text" x="471.969920" y="628.157440" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="6.332160" cy="319.385600" fill="#EE442F" r="20"/>
+    <text class="text" x="6.332160" y="319.385600" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="646.332160" cy="319.385600" fill="#EE442F" r="20"/>
+    <text class="text" x="646.332160" y="319.385600" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="517.502080" cy="123.475840" fill="#EE442F" r="20"/>
+    <text class="text" x="517.502080" y="123.475840" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="517.502080" cy="763.475840" fill="#EE442F" r="20"/>
+    <text class="text" x="517.502080" y="763.475840" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="57.514240" cy="397.809280" fill="#EE442F" r="20"/>
+    <text class="text" x="57.514240" y="397.809280" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="697.514240" cy="397.809280" fill="#EE442F" r="20"/>
+    <text class="text" x="697.514240" y="397.809280" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="239.333760" cy="402.807040" fill="#EE442F" r="20"/>
+    <text class="text" x="239.333760" y="402.807040" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="276.231680" cy="237.692800" fill="#EE442F" r="20"/>
+    <text class="text" x="276.231680" y="237.692800" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="187.990400" cy="276.854400" fill="#63ACBE" r="20"/>
+    <text class="text" x="187.990400" y="276.854400" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="334.805760" cy="607.909120" fill="#EE442F" r="20"/>
+    <text class="text" x="334.805760" y="607.909120" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="563.331200" cy="45.949440" fill="#EE442F" r="20"/>
+    <text class="text" x="563.331200" y="45.949440" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="563.331200" cy="685.949440" fill="#EE442F" r="20"/>
+    <text class="text" x="563.331200" y="685.949440" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="285.258880" cy="281.959680" fill="#63ACBE" r="20"/>
+    <text class="text" x="285.258880" y="281.959680" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="239.088000" cy="59.461120" fill="#63ACBE" r="20"/>
+    <text class="text" x="239.088000" y="59.461120" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="239.088000" cy="699.461120" fill="#63ACBE" r="20"/>
+    <text class="text" x="239.088000" y="699.461120" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="232.142720" cy="105.601920" fill="#EE442F" r="20"/>
+    <text class="text" x="232.142720" y="105.601920" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="232.142720" cy="745.601920" fill="#EE442F" r="20"/>
+    <text class="text" x="232.142720" y="745.601920" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="608.311680" cy="20.760320" fill="#EE442F" r="20"/>
+    <text class="text" x="608.311680" y="20.760320" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="608.311680" cy="660.760320" fill="#EE442F" r="20"/>
+    <text class="text" x="608.311680" y="660.760320" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="423.440000" cy="501.985920" fill="#EE442F" r="20"/>
+    <text class="text" x="423.440000" y="501.985920" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="8.600320" cy="263.358080" fill="#EE442F" r="20"/>
+    <text class="text" x="8.600320" y="263.358080" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="648.600320" cy="263.358080" fill="#EE442F" r="20"/>
+    <text class="text" x="648.600320" y="263.358080" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="414.026240" cy="197.820160" fill="#EE442F" r="20"/>
+    <text class="text" x="414.026240" y="197.820160" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="331.877120" cy="305.718400" fill="#EE442F" r="20"/>
+    <text class="text" x="331.877120" y="305.718400" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="227.726720" cy="255.424640" fill="#63ACBE" r="20"/>
+    <text class="text" x="227.726720" y="255.424640" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="284.462720" cy="476.504320" fill="#EE442F" r="20"/>
+    <text class="text" x="284.462720" y="476.504320" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="284.238080" cy="327.664000" fill="#EE442F" r="20"/>
+    <text class="text" x="284.238080" y="327.664000" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="275.424000" cy="184.645120" fill="#EE442F" r="20"/>
+    <text class="text" x="275.424000" y="184.645120" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="479.273600" cy="87.142400" fill="#63ACBE" r="20"/>
+    <text class="text" x="479.273600" y="87.142400" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="479.273600" cy="727.142400" fill="#63ACBE" r="20"/>
+    <text class="text" x="479.273600" y="727.142400" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="192.453760" cy="530.606080" fill="#EE442F" r="20"/>
+    <text class="text" x="192.453760" y="530.606080" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="194.426240" cy="321.616640" fill="#63ACBE" r="20"/>
+    <text class="text" x="194.426240" y="321.616640" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="96.658560" cy="214.350080" fill="#EE442F" r="20"/>
+    <text class="text" x="96.658560" y="214.350080" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="736.658560" cy="214.350080" fill="#EE442F" r="20"/>
+    <text class="text" x="736.658560" y="214.350080" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="379.349120" cy="423.848320" fill="#EE442F" r="20"/>
+    <text class="text" x="379.349120" y="423.848320" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="474.215680" cy="138.421120" fill="#EE442F" r="20"/>
+    <text class="text" x="474.215680" y="138.421120" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="474.215680" cy="778.421120" fill="#EE442F" r="20"/>
+    <text class="text" x="474.215680" y="778.421120" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="53.843200" cy="290.108160" fill="#EE442F" r="20"/>
+    <text class="text" x="53.843200" y="290.108160" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="693.843200" cy="290.108160" fill="#EE442F" r="20"/>
+    <text class="text" x="693.843200" y="290.108160" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="231.170560" cy="154.163200" fill="#EE442F" r="20"/>
+    <text class="text" x="231.170560" y="154.163200" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="231.170560" cy="794.163200" fill="#EE442F" r="20"/>
+    <text class="text" x="231.170560" y="794.163200" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="341.043200" cy="69.320960" fill="#EE442F" r="20"/>
+    <text class="text" x="341.043200" y="69.320960" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="341.043200" cy="709.320960" fill="#EE442F" r="20"/>
+    <text class="text" x="341.043200" y="709.320960" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="53.254400" cy="185.984640" fill="#EE442F" r="20"/>
+    <text class="text" x="53.254400" y="185.984640" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="693.254400" cy="185.984640" fill="#EE442F" r="20"/>
+    <text class="text" x="693.254400" y="185.984640" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="383.502080" cy="37.860480" fill="#EE442F" r="20"/>
+    <text class="text" x="383.502080" y="37.860480" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="383.502080" cy="677.860480" fill="#EE442F" r="20"/>
+    <text class="text" x="383.502080" y="677.860480" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="425.928320" cy="598.443520" fill="#EE442F" r="20"/>
+    <text class="text" x="425.928320" y="598.443520" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="187.223040" cy="135.593600" fill="#63ACBE" r="20"/>
+    <text class="text" x="187.223040" y="135.593600" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="187.223040" cy="775.593600" fill="#63ACBE" r="20"/>
+    <text class="text" x="187.223040" y="775.593600" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="508.122240" cy="183.893120" fill="#EE442F" r="20"/>
+    <text class="text" x="508.122240" y="183.893120" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="12.684160" cy="635.464960" fill="#EE442F" r="20"/>
+    <text class="text" x="12.684160" y="635.464960" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="652.684160" cy="635.464960" fill="#EE442F" r="20"/>
+    <text class="text" x="652.684160" y="635.464960" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="333.267840" cy="453.587840" fill="#EE442F" r="20"/>
+    <text class="text" x="333.267840" y="453.587840" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="54.538240" cy="341.989120" fill="#EE442F" r="20"/>
+    <text class="text" x="54.538240" y="341.989120" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="694.538240" cy="341.989120" fill="#EE442F" r="20"/>
+    <text class="text" x="694.538240" y="341.989120" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="57.080320" cy="23.174400" fill="#EE442F" r="20"/>
+    <text class="text" x="57.080320" y="23.174400" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="57.080320" cy="663.174400" fill="#EE442F" r="20"/>
+    <text class="text" x="57.080320" y="663.174400" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="697.080320" cy="23.174400" fill="#EE442F" r="20"/>
+    <text class="text" x="697.080320" y="23.174400" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="697.080320" cy="663.174400" fill="#EE442F" r="20"/>
+    <text class="text" x="697.080320" y="663.174400" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="14.776960" cy="580.791680" fill="#EE442F" r="20"/>
+    <text class="text" x="14.776960" y="580.791680" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="654.776960" cy="580.791680" fill="#EE442F" r="20"/>
+    <text class="text" x="654.776960" y="580.791680" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="513.648000" cy="341.990400" fill="#63ACBE" r="20"/>
+    <text class="text" x="513.648000" y="341.990400" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="471.525760" cy="369.989120" fill="#EE442F" r="20"/>
+    <text class="text" x="471.525760" y="369.989120" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="601.651840" cy="293.360000" fill="#EE442F" r="20"/>
+    <text class="text" x="601.651840" y="293.360000" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="368.359040" cy="176.290560" fill="#EE442F" r="20"/>
+    <text class="text" x="368.359040" y="176.290560" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="274.467840" cy="134.054400" fill="#EE442F" r="20"/>
+    <text class="text" x="274.467840" y="134.054400" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="274.467840" cy="774.054400" fill="#EE442F" r="20"/>
+    <text class="text" x="274.467840" y="774.054400" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="554.638720" cy="206.950400" fill="#EE442F" r="20"/>
+    <text class="text" x="554.638720" y="206.950400" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="463.479040" cy="217.740800" fill="#EE442F" r="20"/>
+    <text class="text" x="463.479040" y="217.740800" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="100.332800" cy="265.207680" fill="#EE442F" r="20"/>
+    <text class="text" x="100.332800" y="265.207680" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="740.332800" cy="265.207680" fill="#EE442F" r="20"/>
+    <text class="text" x="740.332800" y="265.207680" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="423.082880" cy="399.212800" fill="#63ACBE" r="20"/>
+    <text class="text" x="423.082880" y="399.212800" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="238.054400" cy="352.097280" fill="#EE442F" r="20"/>
+    <text class="text" x="238.054400" y="352.097280" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="336.637440" cy="18.410880" fill="#EE442F" r="20"/>
+    <text class="text" x="336.637440" y="18.410880" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="336.637440" cy="658.410880" fill="#EE442F" r="20"/>
+    <text class="text" x="336.637440" y="658.410880" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="181.548800" cy="229.518080" fill="#EE442F" r="20"/>
+    <text class="text" x="181.548800" y="229.518080" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="379.250560" cy="376.542720" fill="#63ACBE" r="20"/>
+    <text class="text" x="379.250560" y="376.542720" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="279.710080" cy="83.890560" fill="#EE442F" r="20"/>
+    <text class="text" x="279.710080" y="83.890560" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="279.710080" cy="723.890560" fill="#EE442F" r="20"/>
+    <text class="text" x="279.710080" y="723.890560" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="472.092160" cy="525.319680" fill="#EE442F" r="20"/>
+    <text class="text" x="472.092160" y="525.319680" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="418.183680" cy="248.201600" fill="#EE442F" r="20"/>
+    <text class="text" x="418.183680" y="248.201600" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="371.127040" cy="229.592960" fill="#EE442F" r="20"/>
+    <text class="text" x="371.127040" y="229.592960" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="602.749440" cy="343.555840" fill="#EE442F" r="20"/>
+    <text class="text" x="602.749440" y="343.555840" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="376.016640" cy="278.194560" fill="#63ACBE" r="20"/>
+    <text class="text" x="376.016640" y="278.194560" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="57.921280" cy="452.513920" fill="#EE442F" r="20"/>
+    <text class="text" x="57.921280" y="452.513920" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="697.921280" cy="452.513920" fill="#EE442F" r="20"/>
+    <text class="text" x="697.921280" y="452.513920" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="99.540480" cy="161.212800" fill="#EE442F" r="20"/>
+    <text class="text" x="99.540480" y="161.212800" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="739.540480" cy="161.212800" fill="#EE442F" r="20"/>
+    <text class="text" x="739.540480" y="161.212800" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="473.073280" cy="576.799360" fill="#EE442F" r="20"/>
+    <text class="text" x="473.073280" y="576.799360" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="563.728640" cy="578.938880" fill="#EE442F" r="20"/>
+    <text class="text" x="563.728640" y="578.938880" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="558.585600" cy="368.551040" fill="#EE442F" r="20"/>
+    <text class="text" x="558.585600" y="368.551040" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="409.655040" cy="149.633920" fill="#EE442F" r="20"/>
+    <text class="text" x="409.655040" y="149.633920" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="409.655040" cy="789.633920" fill="#EE442F" r="20"/>
+    <text class="text" x="409.655040" y="789.633920" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="606.910720" cy="394.570880" fill="#EE442F" r="20"/>
+    <text class="text" x="606.910720" y="394.570880" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="564.496000" cy="524.558720" fill="#EE442F" r="20"/>
+    <text class="text" x="564.496000" y="524.558720" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="331.510400" cy="555.266560" fill="#702A5A" r="20"/>
+    <text class="text" x="331.510400" y="555.266560" dominant-baseline="middle" text-anchor="middle" font-size="23">4</text>
+    <circle class="circlest" cx="12.581760" cy="369.255040" fill="#EE442F" r="20"/>
+    <text class="text" x="12.581760" y="369.255040" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="652.581760" cy="369.255040" fill="#EE442F" r="20"/>
+    <text class="text" x="652.581760" y="369.255040" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="100.529920" cy="582.597760" fill="#63ACBE" r="20"/>
+    <text class="text" x="100.529920" y="582.597760" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="740.529920" cy="582.597760" fill="#63ACBE" r="20"/>
+    <text class="text" x="740.529920" y="582.597760" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="425.095040" cy="449.328640" fill="#EE442F" r="20"/>
+    <text class="text" x="425.095040" y="449.328640" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="101.568000" cy="107.468800" fill="#EE442F" r="20"/>
+    <text class="text" x="101.568000" y="107.468800" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="101.568000" cy="747.468800" fill="#EE442F" r="20"/>
+    <text class="text" x="101.568000" y="747.468800" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="741.568000" cy="107.468800" fill="#EE442F" r="20"/>
+    <text class="text" x="741.568000" y="107.468800" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="741.568000" cy="747.468800" fill="#EE442F" r="20"/>
+    <text class="text" x="741.568000" y="747.468800" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="432.663040" cy="59.322240" fill="#63ACBE" r="20"/>
+    <text class="text" x="432.663040" y="59.322240" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="432.663040" cy="699.322240" fill="#63ACBE" r="20"/>
+    <text class="text" x="432.663040" y="699.322240" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="511.214080" cy="238.489600" fill="#EE442F" r="20"/>
+    <text class="text" x="511.214080" y="238.489600" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="286.694400" cy="631.875840" fill="#EE442F" r="20"/>
+    <text class="text" x="286.694400" y="631.875840" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="286.805760" cy="585.334400" fill="#EE442F" r="20"/>
+    <text class="text" x="286.805760" y="585.334400" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="102.253440" cy="316.581120" fill="#EE442F" r="20"/>
+    <text class="text" x="102.253440" y="316.581120" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="742.253440" cy="316.581120" fill="#EE442F" r="20"/>
+    <text class="text" x="742.253440" y="316.581120" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="105.793920" cy="480.523520" fill="#EE442F" r="20"/>
+    <text class="text" x="105.793920" y="480.523520" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="745.793920" cy="480.523520" fill="#EE442F" r="20"/>
+    <text class="text" x="745.793920" y="480.523520" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="147.944320" cy="559.224320" fill="#EE442F" r="20"/>
+    <text class="text" x="147.944320" y="559.224320" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="787.944320" cy="559.224320" fill="#EE442F" r="20"/>
+    <text class="text" x="787.944320" y="559.224320" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="54.041600" cy="132.209280" fill="#EE442F" r="20"/>
+    <text class="text" x="54.041600" y="132.209280" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="54.041600" cy="772.209280" fill="#EE442F" r="20"/>
+    <text class="text" x="54.041600" y="772.209280" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="694.041600" cy="132.209280" fill="#EE442F" r="20"/>
+    <text class="text" x="694.041600" y="132.209280" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="694.041600" cy="772.209280" fill="#EE442F" r="20"/>
+    <text class="text" x="694.041600" y="772.209280" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="327.971200" cy="257.630720" fill="#EE442F" r="20"/>
+    <text class="text" x="327.971200" y="257.630720" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="191.692160" cy="48.385920" fill="#EE442F" r="20"/>
+    <text class="text" x="191.692160" y="48.385920" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="191.692160" cy="688.385920" fill="#EE442F" r="20"/>
+    <text class="text" x="191.692160" y="688.385920" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="147.045760" cy="398.976640" fill="#EE442F" r="20"/>
+    <text class="text" x="147.045760" y="398.976640" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="787.045760" cy="398.976640" fill="#EE442F" r="20"/>
+    <text class="text" x="787.045760" y="398.976640" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="236.442240" cy="13.797120" fill="#EE442F" r="20"/>
+    <text class="text" x="236.442240" y="13.797120" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="236.442240" cy="653.797120" fill="#EE442F" r="20"/>
+    <text class="text" x="236.442240" y="653.797120" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="599.412480" cy="237.392000" fill="#EE442F" r="20"/>
+    <text class="text" x="599.412480" y="237.392000" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="425.174400" cy="353.501440" fill="#EE442F" r="20"/>
+    <text class="text" x="425.174400" y="353.501440" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="608.578560" cy="553.571840" fill="#EE442F" r="20"/>
+    <text class="text" x="608.578560" y="553.571840" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="143.328640" cy="610.057600" fill="#EE442F" r="20"/>
+    <text class="text" x="143.328640" y="610.057600" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="783.328640" cy="610.057600" fill="#EE442F" r="20"/>
+    <text class="text" x="783.328640" y="610.057600" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="237.936000" cy="504.524160" fill="#EE442F" r="20"/>
+    <text class="text" x="237.936000" y="504.524160" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="192.870400" cy="584.190720" fill="#EE442F" r="20"/>
+    <text class="text" x="192.870400" y="584.190720" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="519.950720" cy="604.436480" fill="#EE442F" r="20"/>
+    <text class="text" x="519.950720" y="604.436480" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="521.876480" cy="70.521600" fill="#EE442F" r="20"/>
+    <text class="text" x="521.876480" y="70.521600" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="521.876480" cy="710.521600" fill="#EE442F" r="20"/>
+    <text class="text" x="521.876480" y="710.521600" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="239.400320" cy="606.064000" fill="#63ACBE" r="20"/>
+    <text class="text" x="239.400320" y="606.064000" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="101.160960" cy="534.005120" fill="#63ACBE" r="20"/>
+    <text class="text" x="101.160960" y="534.005120" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="741.160960" cy="534.005120" fill="#63ACBE" r="20"/>
+    <text class="text" x="741.160960" y="534.005120" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="188.542080" cy="478.250880" fill="#EE442F" r="20"/>
+    <text class="text" x="188.542080" y="478.250880" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="237.916160" cy="454.020480" fill="#EE442F" r="20"/>
+    <text class="text" x="237.916160" y="454.020480" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="467.582080" cy="320.415360" fill="#EE442F" r="20"/>
+    <text class="text" x="467.582080" y="320.415360" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="555.941760" cy="155.635200" fill="#EE442F" r="20"/>
+    <text class="text" x="555.941760" y="155.635200" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="555.941760" cy="795.635200" fill="#EE442F" r="20"/>
+    <text class="text" x="555.941760" y="795.635200" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="146.289280" cy="452.028800" fill="#63ACBE" r="20"/>
+    <text class="text" x="146.289280" y="452.028800" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="786.289280" cy="452.028800" fill="#63ACBE" r="20"/>
+    <text class="text" x="786.289280" y="452.028800" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="472.189440" cy="419.638400" fill="#EE442F" r="20"/>
+    <text class="text" x="472.189440" y="419.638400" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="144.508160" cy="187.065600" fill="#EE442F" r="20"/>
+    <text class="text" x="144.508160" y="187.065600" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="784.508160" cy="187.065600" fill="#EE442F" r="20"/>
+    <text class="text" x="784.508160" y="187.065600" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="473.728640" cy="38.207360" fill="#EE442F" r="20"/>
+    <text class="text" x="473.728640" y="38.207360" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="473.728640" cy="678.207360" fill="#EE442F" r="20"/>
+    <text class="text" x="473.728640" y="678.207360" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="13.630080" cy="103.866880" fill="#EE442F" r="20"/>
+    <text class="text" x="13.630080" y="103.866880" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="13.630080" cy="743.866880" fill="#EE442F" r="20"/>
+    <text class="text" x="13.630080" y="743.866880" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="653.630080" cy="103.866880" fill="#EE442F" r="20"/>
+    <text class="text" x="653.630080" y="103.866880" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="653.630080" cy="743.866880" fill="#EE442F" r="20"/>
+    <text class="text" x="653.630080" y="743.866880" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="454.657280" cy="172.584320" fill="#63ACBE" r="20"/>
+    <text class="text" x="454.657280" y="172.584320" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="9.998080" cy="157.347200" fill="#EE442F" r="20"/>
+    <text class="text" x="9.998080" y="157.347200" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="9.998080" cy="797.347200" fill="#EE442F" r="20"/>
+    <text class="text" x="9.998080" y="797.347200" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="649.998080" cy="157.347200" fill="#EE442F" r="20"/>
+    <text class="text" x="649.998080" y="157.347200" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="649.998080" cy="797.347200" fill="#EE442F" r="20"/>
+    <text class="text" x="649.998080" y="797.347200" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="558.408960" cy="315.648000" fill="#63ACBE" r="20"/>
+    <text class="text" x="558.408960" y="315.648000" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="610.178560" cy="76.647680" fill="#EE442F" r="20"/>
+    <text class="text" x="610.178560" y="76.647680" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="610.178560" cy="716.647680" fill="#EE442F" r="20"/>
+    <text class="text" x="610.178560" y="716.647680" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="419.797120" cy="299.945600" fill="#EE442F" r="20"/>
+    <text class="text" x="419.797120" y="299.945600" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="60.292480" cy="78.114560" fill="#EE442F" r="20"/>
+    <text class="text" x="60.292480" y="78.114560" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="60.292480" cy="718.114560" fill="#EE442F" r="20"/>
+    <text class="text" x="60.292480" y="718.114560" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="700.292480" cy="78.114560" fill="#EE442F" r="20"/>
+    <text class="text" x="700.292480" y="78.114560" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="700.292480" cy="718.114560" fill="#EE442F" r="20"/>
+    <text class="text" x="700.292480" y="718.114560" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="381.541120" cy="575.729280" fill="#EE442F" r="20"/>
+    <text class="text" x="381.541120" y="575.729280" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="8.181760" cy="212.773760" fill="#EE442F" r="20"/>
+    <text class="text" x="8.181760" y="212.773760" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="648.181760" cy="212.773760" fill="#EE442F" r="20"/>
+    <text class="text" x="648.181760" y="212.773760" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="333.854720" cy="404.519040" fill="#63ACBE" r="20"/>
+    <text class="text" x="333.854720" y="404.519040" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="518.892160" cy="444.585600" fill="#EE442F" r="20"/>
+    <text class="text" x="518.892160" y="444.585600" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="319.564800" cy="156.451200" fill="#EE442F" r="20"/>
+    <text class="text" x="319.564800" y="156.451200" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="319.564800" cy="796.451200" fill="#EE442F" r="20"/>
+    <text class="text" x="319.564800" y="796.451200" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="190.386560" cy="428.044160" fill="#EE442F" r="20"/>
+    <text class="text" x="190.386560" y="428.044160" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="286.618240" cy="377.463040" fill="#EE442F" r="20"/>
+    <text class="text" x="286.618240" y="377.463040" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="191.149440" cy="635.726080" fill="#EE442F" r="20"/>
+    <text class="text" x="191.149440" y="635.726080" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="436.638080" cy="107.319680" fill="#EE442F" r="20"/>
+    <text class="text" x="436.638080" y="107.319680" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="436.638080" cy="747.319680" fill="#EE442F" r="20"/>
+    <text class="text" x="436.638080" y="747.319680" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="518.919680" cy="494.977280" fill="#EE442F" r="20"/>
+    <text class="text" x="518.919680" y="494.977280" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="379.123200" cy="327.676160" fill="#EE442F" r="20"/>
+    <text class="text" x="379.123200" y="327.676160" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="333.962240" cy="356.092160" fill="#EE442F" r="20"/>
+    <text class="text" x="333.962240" y="356.092160" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="56.593920" cy="610.284160" fill="#EE442F" r="20"/>
+    <text class="text" x="56.593920" y="610.284160" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="696.593920" cy="610.284160" fill="#EE442F" r="20"/>
+    <text class="text" x="696.593920" y="610.284160" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="378.456320" cy="474.706560" fill="#EE442F" r="20"/>
+    <text class="text" x="378.456320" y="474.706560" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="102.634880" cy="48.264960" fill="#EE442F" r="20"/>
+    <text class="text" x="102.634880" y="48.264960" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="102.634880" cy="688.264960" fill="#EE442F" r="20"/>
+    <text class="text" x="102.634880" y="688.264960" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="742.634880" cy="48.264960" fill="#EE442F" r="20"/>
+    <text class="text" x="742.634880" y="48.264960" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="742.634880" cy="688.264960" fill="#EE442F" r="20"/>
+    <text class="text" x="742.634880" y="688.264960" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="604.720640" cy="132.881920" fill="#EE442F" r="20"/>
+    <text class="text" x="604.720640" y="132.881920" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="604.720640" cy="772.881920" fill="#EE442F" r="20"/>
+    <text class="text" x="604.720640" y="772.881920" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="13.951360" cy="48.387840" fill="#EE442F" r="20"/>
+    <text class="text" x="13.951360" y="48.387840" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="13.951360" cy="688.387840" fill="#EE442F" r="20"/>
+    <text class="text" x="13.951360" y="688.387840" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="653.951360" cy="48.387840" fill="#EE442F" r="20"/>
+    <text class="text" x="653.951360" y="48.387840" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="653.951360" cy="688.387840" fill="#EE442F" r="20"/>
+    <text class="text" x="653.951360" y="688.387840" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="190.325120" cy="180.774400" fill="#63ACBE" r="20"/>
+    <text class="text" x="190.325120" y="180.774400" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="517.178240" cy="393.240320" fill="#EE442F" r="20"/>
+    <text class="text" x="517.178240" y="393.240320" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="144.840320" cy="132.477440" fill="#63ACBE" r="20"/>
+    <text class="text" x="144.840320" y="132.477440" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="144.840320" cy="772.477440" fill="#63ACBE" r="20"/>
+    <text class="text" x="144.840320" y="772.477440" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="784.840320" cy="132.477440" fill="#63ACBE" r="20"/>
+    <text class="text" x="784.840320" y="132.477440" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="784.840320" cy="772.477440" fill="#63ACBE" r="20"/>
+    <text class="text" x="784.840320" y="772.477440" dominant-baseline="middle" text-anchor="middle" font-size="23">2</text>
+    <circle class="circlest" cx="323.657600" cy="207.468800" fill="#EE442F" r="20"/>
+    <text class="text" x="323.657600" y="207.468800" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="332.057600" cy="502.747520" fill="#EE442F" r="20"/>
+    <text class="text" x="332.057600" y="502.747520" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="15.308800" cy="475.483520" fill="#EE442F" r="20"/>
+    <text class="text" x="15.308800" y="475.483520" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="655.308800" cy="475.483520" fill="#EE442F" r="20"/>
+    <text class="text" x="655.308800" y="475.483520" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="12.621440" cy="422.392960" fill="#EE442F" r="20"/>
+    <text class="text" x="12.621440" y="422.392960" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+    <circle class="circlest" cx="652.621440" cy="422.392960" fill="#EE442F" r="20"/>
+    <text class="text" x="652.621440" y="422.392960" dominant-baseline="middle" text-anchor="middle" font-size="23">3</text>
+  </g>
+</svg>
